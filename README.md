@@ -1,6 +1,7 @@
 # jSStrap
 
-<h3>jSStrap is currently the following:</h3>  
+<h3>jSStrap is currently just a personal project:</h3>  
+
 <p>Something I coded in a weekend.</p>  
 <p>A PHP web application using Bootstrap 3 and MYSQLI.</p>    
 <p>The application allows you to create a database of code snippets that are sortable by language and Objective.</p>    
