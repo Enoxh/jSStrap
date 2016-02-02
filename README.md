@@ -20,7 +20,7 @@
 
 <h2>SECURITY</h2>
 
- <p>This has none. Do not leave addSnippet.php on the server after you upload your files. A minimal security would be to rename it something cryptic but otherwise you should delete that file from the server after you upload. The DB methods could also use several improvements in that respect if you wanted to say use as something more than a public facing codebase.</p>
+ <p>This has none. Do not leave addSnippet.php on the server after you upload your files. A minimal security would be to rename it something cryptic but otherwise you should delete that file from the server after you upload. The DB methods could also use several improvements in that respect if you wanted to say, use this as something more than a public facing codebase with a provate backend.</p>
  <p></p>
   <p>Objective: Ideally I would like to simply offer an easy way to find code snippets. But I would love to see this grow into a large database of global code that people could contribute to. If you would like to work on this project or contribute code please contact me. On Twitter I am @Enoxh. </p> 
   <p></p>
