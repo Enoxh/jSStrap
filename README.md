@@ -1,6 +1,6 @@
 # jSStrap
 
-<h3></h3>>jSStrap is currently the following:></h3>    
+<h3></h3>jSStrap is currently the following:</h3>    
 <p>A PHP web application using Bootstrap 3 and MYSQLI.</p>    
 <p>The application allows you to create a database of code snippets that are sortable by language and Objective.</p>    
 <p>This package contains exactly what you see here including a sample database of code snippets.<a href="http://jsstrap.com">jSStrap.com</a></p>    
