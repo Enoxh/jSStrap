@@ -1,0 +1,10 @@
+container{
+margin-top:100px;
+    margin-bottom:100px
+}
+
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
