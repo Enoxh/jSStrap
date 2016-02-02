@@ -16,7 +16,11 @@
 <p>Create a new MYSQL database called jsstart</p>    
 <p>Import the codebase.sql file in the folder called sql.</p>    
 <p>Open db_set.php in your favorite code editor and enter your host, database, username and password .</p>    
-<p>Open index.php in your browser and everything should be identical to jsstart.com.</p>    
+<p>Open index.php in your browser and everything should be identical to jsstart.com.</p>  
+
+<h2>SECURITY</h2>
+
+ <p>This has none. Do not leave addSnippet.php on the server after you upload your files. A minimal security would be to rename it something cryptic but otherwise you should delete that file from the server after you upload. The DB methods could also use several improvements in that respect if you wanted to say use as something more than a public facing codebase.</p>
  <p></p>
   <p>Objective: Ideally I would like to simply offer an easy way to find code snippets. But I would love to see this grow into a large database of global code that people could contribute to. If you would like to work on this project or contribute code please contact me. On Twitter I am @Enoxh. </p> 
   <p></p>
